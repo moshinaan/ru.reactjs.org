@@ -14,7 +14,11 @@ next: testing-recipes.html
 * **Рендеринг деревьев компонентов** в упрощенной тестовой среде и проверка их предполагаемого вывода.
 * **Запуск всего приложения** в реалистичной среде браузера (так называемые «сквозные» тесты).
 
+<<<<<<< HEAD
 Этот раздел документации посвящён стратегиям тестирования первым способом. Несмотря на то, что «сквозные» тесты могут быть очень полезны для предотвращения регрессии в важных потоках приложения, эти тесты не касаются React-компонентов напрямую и выходят за рамки этого раздела.
+=======
+This documentation section focuses on testing strategies for the first case. While full end-to-end tests can be very useful to prevent regressions to important workflows, such tests are not concerned with React components in particular, and are out of the scope of this section.
+>>>>>>> b3c7f041586b71b31f556403426fcd7cab342535
 
 ### Компромиссы {#tradeoffs}
 
